@@ -1,0 +1,44 @@
+.background-image{
+    background-image: url('rent.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: rgb(33, 87, 235);
+    text-align: center;
+    border-style: dotted;
+    border-width: 3px;
+    border-left: 0px
+}
+.video{
+    text-align:center
+}
+.span1{
+    color:rgb(33, 87, 235);
+}
+#table{
+    border-spacing: 15px;
+    table
+    text-align: center;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+body{
+    background-image: url("whit\ br.jpg")
+}
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#myCheck{
+    background: black;
+
+div.newslatter {
+    text-align: center;
+    background-color: rgb(33, 87, 235);
+  }
+  
